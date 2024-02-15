@@ -6,8 +6,10 @@ I am currnetly in my final year of Honours Computer Science at Trent University,
 
 Notable Courses:
 - COIS 4480H: Computer Graphics
+- COIS 4350H: High Performance Computing
 - COIS 4050H: Advanced Algorithms
 - COIS 3380H: Systems Programming
+- COIS 3320H: Fundamentals of Operating Systems
 - COIS 3020H: Data Structures and Algorithms II
 - COIS 2020H: Data Structures and Algorithms
 
@@ -22,6 +24,7 @@ I previously worked at Walk With Web in game development using Unreal Engine 5, 
 
 I have been involved with running the following courses at Trent in various roles:
 - COIS 3420H: Web Application Development
+- COIS 3050H: Formal Languages and Automata
 - COIS 2320H: Digital Logic
 - COIS 2020H: Data Structures and Algorithms
 - COIS 1020H: Programming for Computer Science
